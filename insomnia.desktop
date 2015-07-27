@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0.0
+Name=Insomnia
+Comment=Prevent Screensaving
+Exec=insomnia
+Icon=insomnia
+Terminal=false
+Type=Application
+Categories=Utility;Application;

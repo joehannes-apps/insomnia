@@ -1,0 +1,26 @@
+{
+  "name": "insomnia",
+  "version": "1.0.0",
+  "description": "Ubuntu Tray-Tool for disabling Screensaver and Screen-dimming/deactivation during  movies, youtube, ...",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://joehannes@bitbucket.org/joehannes/insomnia.git"
+  },
+  "keywords": [
+    "Tray",
+    "Screensaver-Prohibitor",
+    "Awake"
+  ],
+  "author": "DI (FH)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.1"
+  },
+  "dependencies": {
+    "shelljs": "^0.5.1"
+  }
+}
